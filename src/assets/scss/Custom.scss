@@ -1,0 +1,30 @@
+.Video-player{
+    margin-left:22%;
+    margin-top : 5%;
+}
+.Video_List{
+    content:center;
+    cursor : pointer
+}
+.carousel{
+    cursor:pointer;
+    display:inline-block;
+    width: 17rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: left;
+
+}
+.Search-Box{
+    margin-top : 1%;
+    margin-left: 40%
+}
+.Search-Box:hover{
+    border-color: #262161
+}
+.Card-Play{
+    cursor:pointer;
+    width: 17rem;
+    float: left;
+    display: inline-block;
+}
