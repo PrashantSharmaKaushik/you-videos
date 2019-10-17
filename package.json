@@ -1,0 +1,43 @@
+{
+  "name": "you-videos",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cls-bluebird": "^2.1.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.4",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-dom": "^16.8.4",
+    "react-loadable": "^5.5.0",
+    "react-player": "^1.13.0",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.8",
+    "video-thumbnail-url": "^1.0.1",
+    "youtube-api-search": "0.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantSharmaKaushik/you-videos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantSharmaKaushik/you-videos/issues"
+  },
+  "homepage": "https://github.com/PrashantSharmaKaushik/you-videos#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

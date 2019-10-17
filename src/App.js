@@ -5,7 +5,7 @@ import { Container } from "react-bootstrap";
 import { ViewVideo , VideoList , Search} from "./containers";
 import searchYouTube from 'youtube-api-search';
 
-const KEY = "AIzaSyDB-aVfCHbcXXIXtd2n9yHCNMmU1hfOnSI";
+const KEY = "AIzaSyC06F2cPmmfxiJSa7XXdTrQ5VjbmC4rkyU";
 const playlist_id = "PLVbP054jv0KomLUSyg27QyHNdckTOSKGr";
 
 class App extends Component{
